@@ -1,0 +1,18 @@
+###### Requirements without Version Specifiers ######
+pandas
+numpy
+ipython-sql
+sqlalchemy
+psycopg2
+pillow
+scikit-learn
+tensorflow
+keras
+PIL
+matplotlib
+joblib
+uvicorn
+fastapi
+python-multipart
+ipython
+requests
